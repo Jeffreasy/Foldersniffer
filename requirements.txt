@@ -1,0 +1,6 @@
+
+# Requirements for FolderSniffer Dashboard
+
+PyQt6==6.7.0
+matplotlib==3.7.1
+seaborn==0.13.2
